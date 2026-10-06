@@ -1,0 +1,1 @@
+CREATE DATABASE advanced_sql_postgresql;
